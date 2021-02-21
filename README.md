@@ -3,6 +3,15 @@
 This program solves a simple Poisson problem using (T)HB-Splines. The code is based on a project of mr. Jahnke, which works only for 1D case though. Thus, I extended his code in order to work for 2D case aswell.
 
 
+2D THB-Spines refinement
+
+
+![](images/2Dbas1.png)
+![](images/2Dbas2.png)
+![](images/2Dbas3.png)
+![](images/2Dsol.png)
+
+
 Example 1 with THB-Splines
 
 
